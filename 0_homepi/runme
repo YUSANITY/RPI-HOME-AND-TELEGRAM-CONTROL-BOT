@@ -1,0 +1,7 @@
+#COMMAND TO ACTIVATE ACTIONS BOT
+cd tg
+bin/telegram-cli -k tg-server.pub -W -s  actions.lua
+
+
+$ source ~/.profile
+$ workon cv
